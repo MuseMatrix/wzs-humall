@@ -1,3 +1,2 @@
-# wangzhongshun-hwmall-demo
-积累与练习、实战
+# 学习
 仿华为商城
